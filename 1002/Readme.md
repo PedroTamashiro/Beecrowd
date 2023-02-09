@@ -1,0 +1,1 @@
+Somatório, Dige 1 valor, envie, após digite mais um valor e envie.
