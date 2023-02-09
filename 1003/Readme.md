@@ -1,1 +1,1 @@
-Area do circulo, Digite o raio e envie.
+Soma, digite 1 numero, envie, digite outro numero e envie

@@ -4,7 +4,9 @@
 #include <math.h>
 
 int main(void){
-    double R, Pi = 3.14159;
-    scanf("%f", &R);
-    printf("A=%.4f\n", Pi*pow(R,2));
+    int A, B, Soma;
+    scanf("%i", &A);
+    scanf("%i", &B);
+    Soma = A + B;
+    printf("Soma = %i\n", Soma);
 }
