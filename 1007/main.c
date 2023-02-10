@@ -9,7 +9,7 @@ int main(void){
     scanf("%i", &B);
     scanf("%i", &C);
     scanf("%i", &D);
-    Dif = ((A*B)+(C*D));
+    Dif = ((A*B)-(C*D));
 
-
+    printf("DIFERENCA = %i\n",  Dif);
 }
