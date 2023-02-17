@@ -1,0 +1,1 @@
+Diferença do produto, entre A e B, e C e D;
